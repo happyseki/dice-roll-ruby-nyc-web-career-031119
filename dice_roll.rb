@@ -4,6 +4,6 @@
 
 def roll
   randNum = rand(1..6)
-  return rolls = [randNum]
+  return randNum
   # code goes here
 end
